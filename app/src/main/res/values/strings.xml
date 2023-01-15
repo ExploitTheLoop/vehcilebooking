@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PathFinder</string>
+    <string-array name="payments">
+        <item>Cash</item>
+        <item>Paytm</item>
+        <item>Phonepay</item>
+    </string-array>
+
+    <string name="map_key" translatable="false">
+        AIzaSyAdYl5sPMCD1GC_A4yZsogPLoQo2lv9jSQ
+    </string>
+
+    <string name="app_succes_dialouge">Thanks for trusting us , our driver will soon contact with you .</string>
+</resources>
